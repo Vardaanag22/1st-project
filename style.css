@@ -1,0 +1,21 @@
+html{
+    background-color:lightblue
+}
+
+h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+ .image{
+    color: black;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    font-family: playfair-display,sans-serif;
+ }
+
+ .funny-image{
+    border: 5px;
+    width: 50%;
+ }
